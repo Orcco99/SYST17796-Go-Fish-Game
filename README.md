@@ -3,4 +3,4 @@ Deliverable 1
 By:Oscar Orccotoma
 
 All program code can be found in the Master branch. 
-Porject Mainmethod can be found in GameLauncher class.
+Porject Main method can be found in GameLauncher class.
