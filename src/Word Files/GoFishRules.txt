@@ -1,0 +1,30 @@
+go fish rules:
+52 cards
+
+if 2 players: 7 cards for each
+if 3 or more players: each player gets 5 cards
+remaining deck placed in middle
+
+Goal:
+receive the most 4 of a kinds regardless of suit 
+
+
+Gameplay:
+Player left of dealer is first to play
+Player will ask another player if they have a card of a certain rank (number value)
+In order to be able to ask for a certain card rank you must hold a card with the same rank in your hand
+If the player(a) asked does have the cards of the rank the asking Player(b) requested, then the player(a) must give all cards of that rank to the Player(b) 
+If the player who asked for a card rank and their request was succseful, then they get to have another turn 
+If the player(b) who asked for a card rank and their request is unsuccesful meaning the other player(a) didnt have a card of that rank, then the player(a) asked will reply go fish, and the asking player(b) must draw a card from the deck in the middle
+the player(b) who asked will also have their turn end as a consequence
+Once a player has a group of 4 cards with the same rank, they can put them aside as it is a point for them 
+ 
+Winning Condtion
+once all the cards are gone thruough, the sets of four from each player are added up and the player with the most sets wins.
+
+rule review:
+If a player draws a card that completes a set of matching card rank in their hand, then that counts as a poitn for the player.
+If at any time a player empties their hand before the whole deck is finished then the player with the empty hand must pick up 5 new cards from the middle card deck
+If the middle deck has less than 5 cards then the player with the empty hand receives the remaing middle deck cards regardless
+When middle deck is empty then play continues until all cards have been laid down, when go fish is annoucne in this situation, play just moves to the next player.
+if a player runs out of cards while the middle deck is out, then they are done for the game and just wait for the game to end for the rest of the players
