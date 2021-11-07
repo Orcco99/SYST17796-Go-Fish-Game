@@ -117,13 +117,5 @@ public class Deck {
             return result;   
         }
         return "Empty Hand";
-    }
-    
-        
-            
-    
-    
-    
-        
-
+    }      
 }

@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class GameLauncher {
 
     public static void main(String[] args) {
-        int choice;
+        //int choice;
         
 //        Deck deck = new Deck();
 //        deck.fillDeck();
